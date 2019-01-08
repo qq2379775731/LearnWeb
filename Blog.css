@@ -1,0 +1,32 @@
+.body {
+	max-width: 700px;
+	width: 80%;
+	margin: auto;
+	border: 20px solid #b1b1b1;
+	padding: 20px;
+}
+
+.date {
+	font-family: 'Roboto';
+	color: #6666ff;
+	letter-spacing: 0.2em;
+
+}
+
+.title {
+	font-family: 'Sarabun';
+	font-weight: 800;
+}
+
+.quote {
+	border-left: 6px solid #b1b1b1;
+	padding-left: 10px;
+}
+
+.bottom-border {
+	border-bottom: 1px solid #b1b1b1;
+}
+
+p {
+	font-family: 'Thasadith';
+}
